@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{375B8198-4920-1939-4E7E-EE8681AD2C42}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/test1.txt">
+    <Files>
+      <File FileName="Assets/test1.txt" Line="3" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/Hit.cs" Line="226" Column="1" />
+      <File FileName="Assets/Scripts/UiControler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HitFPS.cs" Line="127" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Little-Hero" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="test1.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0dfcf0a7-d036-47c7-b13a-53ae5e3d1971" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
